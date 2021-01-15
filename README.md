@@ -4,5 +4,5 @@
 ### Será desenvolvido em React, usando Material UI para estilizaçao do sistema.
 
 
--
+__
 ## Sistema desenvolvido para Estudo e Desenvolvimento proprio nas tecnologias supra citadas.
